@@ -46,3 +46,11 @@ Me chamo Douglas Estrela, tenho 18 anos. Atualmente, estou cursando Análise e D
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="(https://camo.githubusercontent.com/69d0679d96a7c4f46daba433ba382bfeb11d4d990f5b7394a461f0e8b4f1cbf4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667)" 
+/>
