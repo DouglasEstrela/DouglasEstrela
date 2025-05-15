@@ -52,5 +52,5 @@ Me chamo Douglas Estrela, tenho 18 anos. Atualmente, estou cursando Análise e D
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://icon-icons.com/pt/icone/java-original-logo/146458" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
