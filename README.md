@@ -1,8 +1,11 @@
 # 👩🏻‍💻 Douglas Estrela
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Web`**
 
-Me chamo Douglas Estrela, tenho 18 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU. Sou um desenvolvedor full stack em formação, com foco no aprimoramento contínuo em JavaScript para atuar tanto no frontend quanto no backend. Busco sempre aprofundar meus conhecimentos e aplicar as melhores práticas no desenvolvimento de aplicações modernas e eficientes.
+Sou desenvolvedor web em formação, com base sólida em JavaScript, atuando tanto no front-end quanto no back-end. Já construí APIs REST com Node.js, sistemas de cadastro, landing pages responsivas e, mais recentemente, um app bancário fullstack (contas corrente e poupança, com regras de negócio próprias para cada tipo), usando Node.js/Express no back-end e React/Vite no front-end. São projetos onde resolvi problemas reais do início ao fim.
+
+Estou cursando Análise e Desenvolvimento de Sistemas pela Uninassau e complementando meus estudos com cursos na área. Sou organizado, colaborativo e me adapto rápido a ambientes novos. Estou buscando minha primeira oportunidade profissional em tecnologia, um lugar onde eu possa aprender com quem já trilhou esse caminho e contribuir com dedicação desde o primeiro dia.
+
 
 ### 🤖 Linguagens e Tecnologias
 
