@@ -64,7 +64,13 @@ Também estudo **IA Generativa** e já aplico recursos de inteligência artifici
 
 **Também:** Git · GitHub · VS Code · IntelliJ IDEA · Postman
 
-**IA Generativa:** Blackbox · GitHub Copilot · Claude · Vercel v0 · Gemini
+<p>
+  <img src="https://cdn.simpleicons.org/blackbox" height="44" alt="Blackbox" />
+  <img src="https://cdn.simpleicons.org/githubcopilot" height="44" alt="GitHub Copilot" />
+  <img src="https://cdn.simpleicons.org/anthropic" height="44" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/vercel" height="44" alt="Vercel v0" />
+  <img src="https://cdn.simpleicons.org/googlegemini" height="44" alt="Gemini" />
+</p>
 
 ---
 
