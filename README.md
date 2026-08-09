@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:1d4ed8&height=190&section=header&text=Douglas%20Estrela&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=60&descSize=18" width="100%" alt="Douglas Estrela" />
 
-### `React` · `TypeScript` · `JavaScript` · `Node.js`
+### `React` · `JavaScript` · `Node.js`
 
 **Front-end com foco em React • Back-end em evolução com Node.js • Desenvolvimento Web • IA Generativa**
 
