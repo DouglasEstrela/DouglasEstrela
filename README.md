@@ -137,6 +137,8 @@ Landing page responsiva para apresentação de produto, com foco em hierarquia v
 
 🗄️ **Banco de Dados** · IFRS
 
+🖥️ **Manutenção de Computadores** · IFRS
+
 ---
 
 ## 🔭 Atualmente focado em
