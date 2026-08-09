@@ -62,7 +62,9 @@ Também estudo **IA Generativa** e já aplico recursos de inteligência artifici
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Git, GitHub, VS Code and IntelliJ IDEA" />
 </p>
 
-**Também:** Git · GitHub · VS Code · IntelliJ IDEA · Postman · IA Generativa
+**Também:** Git · GitHub · VS Code · IntelliJ IDEA · Postman
+
+**IA Generativa:** Blackbox · GitHub Copilot · Claude · Vercel v0 · Gemini
 
 ---
 
@@ -141,7 +143,6 @@ Landing page responsiva para apresentação de produto, com foco em hierarquia v
 
 ```text
 React            ████████████████████  Front-end
-TypeScript       █████████████████░░░  Tipagem e desenvolvimento web
 Node.js          ███████████████░░░░░  Back-end e APIs REST
 Vite             █████████████████░░░  Tooling front-end
 IA Generativa    ███████████████░░░░░  Aplicações e produtividade
